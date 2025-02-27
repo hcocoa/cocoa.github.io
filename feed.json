@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HCocoa‘s Blog",
+    "description": "",
+    "home_page_url": "https://hcocoa.com/cocoa.github.io",
+    "feed_url": "https://hcocoa.com/cocoa.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "HCocoa"
+    },
+    "items": [
+    ]
+}
