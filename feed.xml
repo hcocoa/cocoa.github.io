@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>HCocoa‘s Blog</title>
-    <link href="https://hcocoa.com/cocoa.github.io/feed.xml" rel="self" />
-    <link href="https://hcocoa.com/cocoa.github.io" />
+    <link href="https://pub.hcocoa.com/feed.xml" rel="self" />
+    <link href="https://pub.hcocoa.com" />
     <updated>2025-05-27T11:16:46+08:00</updated>
     <author>
         <name>HCocoa</name>
     </author>
-    <id>https://hcocoa.com/cocoa.github.io</id>
+    <id>https://pub.hcocoa.com</id>
 
     <entry>
         <title>hello</title>
         <author>
             <name>HCocoa</name>
         </author>
-        <link href="https://hcocoa.com/cocoa.github.io/hello.html"/>
-        <id>https://hcocoa.com/cocoa.github.io/hello.html</id>
+        <link href="https://pub.hcocoa.com/hello.html"/>
+        <id>https://pub.hcocoa.com/hello.html</id>
 
         <updated>2025-03-24T14:06:41+08:00</updated>
             <summary>

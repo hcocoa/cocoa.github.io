@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "HCocoa‘s Blog",
     "description": "",
-    "home_page_url": "https://hcocoa.com/cocoa.github.io",
-    "feed_url": "https://hcocoa.com/cocoa.github.io/feed.json",
+    "home_page_url": "https://pub.hcocoa.com",
+    "feed_url": "https://pub.hcocoa.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "HCocoa"
     },
     "items": [
         {
-            "id": "https://hcocoa.com/cocoa.github.io/hello.html",
-            "url": "https://hcocoa.com/cocoa.github.io/hello.html",
+            "id": "https://pub.hcocoa.com/hello.html",
+            "url": "https://pub.hcocoa.com/hello.html",
             "title": "hello",
             "summary": "world",
             "content_html": "<p>world</p>",
