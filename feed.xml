@@ -3,10 +3,30 @@
     <title>HCocoa‘s Blog</title>
     <link href="https://hcocoa.com/cocoa.github.io/feed.xml" rel="self" />
     <link href="https://hcocoa.com/cocoa.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-05-27T11:16:46+08:00</updated>
     <author>
         <name>HCocoa</name>
     </author>
     <id>https://hcocoa.com/cocoa.github.io</id>
 
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>HCocoa</name>
+        </author>
+        <link href="https://hcocoa.com/cocoa.github.io/hello.html"/>
+        <id>https://hcocoa.com/cocoa.github.io/hello.html</id>
+
+        <updated>2025-03-24T14:06:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                    world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>world</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
